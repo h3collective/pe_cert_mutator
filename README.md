@@ -19,7 +19,6 @@ the pefile module is required to run this script.  Otherwise, the script is
 capable of running on different platforms.
 
 ## Artifacts
-* test.exe - self-signed test binary that does nothing.
 * cert_mutator.py - script for modifying binary files.
 
 ## Help output
